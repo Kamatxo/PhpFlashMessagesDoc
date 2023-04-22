@@ -1,5 +1,16 @@
 <?php
 namespace Plasticbrain\FlashMessages;
+/**
+ * Store messages in session data until they are retrieved
+ *
+ * @author Mike Everhart & PlasticBrain Media LLC
+ * @link  http://mikeeverhart.net/php-flash-messages.
+ * @version 1.0.1
+ * @copyright 2015
+ * @license https://github.com/plasticbrain/PhpFlashMessages#license
+ * 
+ * @package FlashMessages
+ */ 
 
 class FlashMessages {
 
